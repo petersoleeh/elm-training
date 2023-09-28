@@ -25,16 +25,16 @@ img {
   border: 1px solid #fff;
   margin: 5px;
   max-width: 200px;
+}
 
-  .large {
-    float: right;
-    width: 500px;
-  }
+.large {
+  float: right;
+  max-width: 500px;
+}
 
-  .selected {
-    margin: 0;
-    border: 6px solid #60b5cc;
-  }
+.selected {
+  margin: 0;
+  border: 6px solid #60b5cc;
 }
 
 .content {
